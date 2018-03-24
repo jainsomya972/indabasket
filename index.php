@@ -1,3 +1,0 @@
-<?php
-    #all starts here.
->
